@@ -58,7 +58,8 @@ public class Main {
             scanner.close();
 
 
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello World! My name is Alexis Sanchez" );
+
     }
 
     public static int doubleTheNumber(int number) {
